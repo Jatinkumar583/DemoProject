@@ -12,6 +12,10 @@ namespace ConsoleApp1
                 {
                     Console.WriteLine("Even Number");
                 }
+                else
+                {
+                    Console.WriteLine("Odd Number");
+                }
             }
         }
     }
